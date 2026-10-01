@@ -8,7 +8,7 @@
 
 ## Run in Google Colab
 
-1. Open `Data_Lake_Assignment.ipynb` in [Google Colab](https://colab.research.google.com/github/abhay9494/data-mining-data-lake-assignment/blob/assignment/LIT2023006-abhay-prasad/submissions/LIT2023006_Abhay_Prasad/Data_Lake_Assignment.ipynb).
+1. Open `Data_Lake_Assignment.ipynb` in [Google Colab](https://colab.research.google.com/github/abhay9494/data-mining-data-lake-assignment/blob/main/submissions/LIT2023006_Abhay_Prasad/Data_Lake_Assignment.ipynb).
 2. Use a standard Python CPU runtime and choose **Runtime > Run all**.
 3. The first cell uses the runtime's installed PySpark, or installs PySpark 3.5.8 if absent. This submission was executed with Spark 4.0.4 in Google Colab. The notebook downloads the original dataset from a pinned class-repository commit, without requiring a file upload or Google Drive mount.
 4. Inspect the schema, source rows, Spark-generated discrepancy counts, before/after row counts, Silver read-back, and verification results.
